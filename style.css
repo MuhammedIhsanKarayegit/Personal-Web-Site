@@ -1,0 +1,86 @@
+.resimSlider {
+    height: 600px;
+}
+
+body {
+    padding: 50px;
+    font-family: 'Roboto Mono', monospace;
+}
+.login{
+    width: 100%;
+    padding: 10px;
+    height: auto;
+    margin: auto;
+    padding-top: 10%;
+    padding-bottom: 15%;
+    
+}
+
+
+.takim {
+    background-color: #f2f2f2;
+}
+
+.iletisim {
+    background-color: #f2f2f2;
+}
+
+.ayrac {
+    border: none;
+    border-top: 3px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.igri {
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+
+.ibeyaz {
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid white;
+    background-color: white;
+}
+
+.seffaflık>img:hover {
+    opacity: 0.8;
+
+}
+
+.fotograflar {
+    height: 300px;
+
+}
+
+.btnortala {
+    margin-left: 40%;
+}
+
+bosluk {
+    margin-bottom: 0px;
+}
+
+.color{
+    background-color: blue ;
+}
+
+.renk{
+    background-color:peru;
+}
+
+.kradio{
+    margin:5px;
+    margin-left: -2%;
+}
+
+.kcinsiyet{
+    margin-left: -5%;
+}
