@@ -5,14 +5,14 @@ ob_start();
 include("ayar.php");
 
 
-if(($_POST["email"]=="g201210047@sakarya.edu.tr") && ($_POST["password"]=="g201210047"))
+if(($_POST["email"]=="g211210023@sakarya.edu.tr") && ($_POST["password"]=="g211210023"))
 {
 
 $_SESSION["login"] = "true";
-$_SESSION["email"] = "g201210047@sakarya.edu.tr";
-$_SESSION["password"] = "g201210047";
+$_SESSION["email"] = "g211210023@sakarya.edu.tr";
+$_SESSION["password"] = "g211210023";
 
-echo "Hosgeldiniz g201210047. Başarıyla giriş yaptınız. Giriş sayfasına yonlendiriliyorsunuz. Lütfen bekleyin..";
+echo "Hosgeldiniz g211210023. Başarıyla giriş yaptınız. Giriş sayfasına yonlendiriliyorsunuz. Lütfen bekleyin..";
 												
 header("Refresh: 2; url=index.html");
 
